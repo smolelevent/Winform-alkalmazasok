@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\grafikusRaadas\grafikusRaadas\obj\Debug\grafikusRaadas.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\grafikusRaadas\grafikusRaadas\obj\Debug\grafikusRaadas.Form1.resources
+C:\Users\user\Desktop\grafikusRaadas\grafikusRaadas\obj\Debug\grafikusRaadas.Properties.Resources.resources
+C:\Users\user\Desktop\grafikusRaadas\grafikusRaadas\obj\Debug\grafikusRaadas.csproj.GenerateResource.cache
+C:\Users\user\Desktop\grafikusRaadas\grafikusRaadas\obj\Debug\grafikusRaadas.csproj.CoreCompileInputs.cache
