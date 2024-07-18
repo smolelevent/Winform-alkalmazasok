@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\TelefonkonyvKL\bin\Debug\TelefonkonyvKL.exe.config
+C:\Users\user\Desktop\TelefonkonyvKL\bin\Debug\TelefonkonyvKL.exe
+C:\Users\user\Desktop\TelefonkonyvKL\bin\Debug\TelefonkonyvKL.pdb
+C:\Users\user\Desktop\TelefonkonyvKL\obj\Debug\TelefonkonyvKL.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\TelefonkonyvKL\obj\Debug\TelefonkonyvKL.MenuForm.resources
+C:\Users\user\Desktop\TelefonkonyvKL\obj\Debug\TelefonkonyvKL.UjForm.resources
+C:\Users\user\Desktop\TelefonkonyvKL\obj\Debug\TelefonkonyvKL.ListaForm.resources
+C:\Users\user\Desktop\TelefonkonyvKL\obj\Debug\TelefonkonyvKL.TorlesForm.resources
+C:\Users\user\Desktop\TelefonkonyvKL\obj\Debug\TelefonkonyvKL.ModositasForm.resources
+C:\Users\user\Desktop\TelefonkonyvKL\obj\Debug\TelefonkonyvKL.KeresesForm.resources
+C:\Users\user\Desktop\TelefonkonyvKL\obj\Debug\TelefonkonyvKL.Properties.Resources.resources
+C:\Users\user\Desktop\TelefonkonyvKL\obj\Debug\TelefonkonyvKL.csproj.GenerateResource.cache
+C:\Users\user\Desktop\TelefonkonyvKL\obj\Debug\TelefonkonyvKL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TelefonkonyvKL\obj\Debug\TelefonkonyvKL.exe
+C:\Users\user\Desktop\TelefonkonyvKL\obj\Debug\TelefonkonyvKL.pdb
